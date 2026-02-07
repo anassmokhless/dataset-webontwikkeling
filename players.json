@@ -1,0 +1,502 @@
+[
+  {
+    "id": "NBA-001",
+    "name": "LeBron James",
+    "description": "Widely considered one of the greatest basketball players of all time, LeBron James is a four-time NBA champion known for his exceptional basketball IQ, versatility, and leadership both on and off the court.",
+    "age": 39,
+    "isActive": true,
+    "birthDate": "1984-12-30",
+    "jerseyNumber": 23,
+    "position": "Forward",
+    "achievements": ["4x NBA Champion", "4x NBA MVP", "19x All-Star", "NBA All-Time Leading Scorer"],
+    "team": {
+      "id": "TEAM-LAL",
+      "name": "Los Angeles Lakers",
+      "city": "Los Angeles",
+      "conference": "Western",
+      "foundedYear": 1947,
+      "championships": 17,
+      "colors": ["Purple", "Gold"]
+    }
+  },
+  {
+    "id": "NBA-002",
+    "name": "Stephen Curry",
+    "description": "Revolutionary point guard who transformed the game with his incredible three-point shooting ability. Stephen Curry is a four-time NBA champion and holds numerous shooting records.",
+    "age": 36,
+    "isActive": true,
+    "birthDate": "1988-03-14",
+    "jerseyNumber": 30,
+    "position": "Guard",
+    "achievements": ["4x NBA Champion", "2x NBA MVP", "10x All-Star", "All-Time 3-Point Leader"],
+    "team": {
+      "id": "TEAM-GSW",
+      "name": "Golden State Warriors",
+      "city": "San Francisco",
+      "conference": "Western",
+      "foundedYear": 1946,
+      "championships": 7,
+      "colors": ["Blue", "Gold"]
+    }
+  },
+  {
+    "id": "NBA-003",
+    "name": "Giannis Antetokounmpo",
+    "description": "The 'Greek Freak' is known for his incredible athleticism, versatility, and dominant two-way play. An NBA champion and two-time MVP who can play and defend multiple positions.",
+    "age": 29,
+    "isActive": true,
+    "birthDate": "1994-12-06",
+    "jerseyNumber": 34,
+    "position": "Forward",
+    "achievements": ["NBA Champion", "2x NBA MVP", "8x All-Star", "NBA Finals MVP"],
+    "team": {
+      "id": "TEAM-MIL",
+      "name": "Milwaukee Bucks",
+      "city": "Milwaukee",
+      "conference": "Eastern",
+      "foundedYear": 1968,
+      "championships": 2,
+      "colors": ["Green", "Cream"]
+    }
+  },
+  {
+    "id": "NBA-004",
+    "name": "Kevin Durant",
+    "description": "One of the most prolific scorers in NBA history, Kevin Durant combines elite shooting, ball-handling, and length to create an almost unguardable offensive package.",
+    "age": 36,
+    "isActive": true,
+    "birthDate": "1988-09-29",
+    "jerseyNumber": 35,
+    "position": "Forward",
+    "achievements": ["2x NBA Champion", "NBA MVP", "14x All-Star", "2x Finals MVP"],
+    "team": {
+      "id": "TEAM-PHX",
+      "name": "Phoenix Suns",
+      "city": "Phoenix",
+      "conference": "Western",
+      "foundedYear": 1968,
+      "championships": 0,
+      "colors": ["Purple", "Orange"]
+    }
+  },
+  {
+    "id": "NBA-005",
+    "name": "Nikola Jokić",
+    "description": "The Serbian center revolutionized the position with his exceptional passing, basketball IQ, and all-around game. A three-time MVP who led the Denver Nuggets to their first championship.",
+    "age": 29,
+    "isActive": true,
+    "birthDate": "1995-02-19",
+    "jerseyNumber": 15,
+    "position": "Center",
+    "achievements": ["NBA Champion", "3x NBA MVP", "6x All-Star", "NBA Finals MVP"],
+    "team": {
+      "id": "TEAM-DEN",
+      "name": "Denver Nuggets",
+      "city": "Denver",
+      "conference": "Western",
+      "foundedYear": 1976,
+      "championships": 1,
+      "colors": ["Navy", "Yellow"]
+    }
+  },
+  {
+    "id": "NBA-006",
+    "name": "Luka Dončić",
+    "description": "Slovenian superstar known for his elite playmaking, scoring ability, and clutch performances. Despite his young age, he's already considered one of the best players in the league.",
+    "age": 25,
+    "isActive": true,
+    "birthDate": "1999-02-28",
+    "jerseyNumber": 77,
+    "position": "Guard",
+    "achievements": ["5x All-Star", "5x All-NBA", "Rookie of the Year", "EuroLeague MVP"],
+    "team": {
+      "id": "TEAM-DAL",
+      "name": "Dallas Mavericks",
+      "city": "Dallas",
+      "conference": "Western",
+      "foundedYear": 1980,
+      "championships": 1,
+      "colors": ["Blue", "Silver"]
+    }
+  },
+  {
+    "id": "NBA-007",
+    "name": "Jayson Tatum",
+    "description": "Elite two-way wing player for the Boston Celtics, known for his scoring versatility, improved playmaking, and clutch gene. A cornerstone of the Celtics' championship aspirations.",
+    "age": 26,
+    "isActive": true,
+    "birthDate": "1998-03-03",
+    "jerseyNumber": 0,
+    "position": "Forward",
+    "achievements": ["NBA Champion", "5x All-Star", "4x All-NBA", "Eastern Conference Finals MVP"],
+    "team": {
+      "id": "TEAM-BOS",
+      "name": "Boston Celtics",
+      "city": "Boston",
+      "conference": "Eastern",
+      "foundedYear": 1946,
+      "championships": 18,
+      "colors": ["Green", "White"]
+    }
+  },
+  {
+    "id": "NBA-008",
+    "name": "Joel Embiid",
+    "description": "Dominant center from Cameroon who combines elite scoring, rebounding, and rim protection. Known for his footwork, shooting range, and competitive fire.",
+    "age": 30,
+    "isActive": true,
+    "birthDate": "1994-03-16",
+    "jerseyNumber": 21,
+    "position": "Center",
+    "achievements": ["NBA MVP", "7x All-Star", "5x All-NBA", "3x Scoring Champion"],
+    "team": {
+      "id": "TEAM-PHI",
+      "name": "Philadelphia 76ers",
+      "city": "Philadelphia",
+      "conference": "Eastern",
+      "foundedYear": 1946,
+      "championships": 3,
+      "colors": ["Blue", "Red"]
+    }
+  },
+  {
+    "id": "NBA-009",
+    "name": "Damian Lillard",
+    "description": "Explosive point guard known for his deep three-point range, clutch performances, and leadership. One of the most lethal scorers in NBA history.",
+    "age": 34,
+    "isActive": true,
+    "birthDate": "1990-07-15",
+    "jerseyNumber": 0,
+    "position": "Guard",
+    "achievements": ["8x All-Star", "7x All-NBA", "Rookie of the Year", "All-Star Game MVP"],
+    "team": {
+      "id": "TEAM-MIL",
+      "name": "Milwaukee Bucks",
+      "city": "Milwaukee",
+      "conference": "Eastern",
+      "foundedYear": 1968,
+      "championships": 2,
+      "colors": ["Green", "Cream"]
+    }
+  },
+  {
+    "id": "NBA-010",
+    "name": "Anthony Davis",
+    "description": "Versatile big man with elite defensive capabilities and offensive skill. Known for his shot-blocking, rebounding, and ability to score from anywhere on the court.",
+    "age": 31,
+    "isActive": true,
+    "birthDate": "1993-03-11",
+    "jerseyNumber": 3,
+    "position": "Forward-Center",
+    "achievements": ["NBA Champion", "9x All-Star", "4x All-NBA", "4x All-Defensive"],
+    "team": {
+      "id": "TEAM-LAL",
+      "name": "Los Angeles Lakers",
+      "city": "Los Angeles",
+      "conference": "Western",
+      "foundedYear": 1947,
+      "championships": 17,
+      "colors": ["Purple", "Gold"]
+    }
+  },
+  {
+    "id": "NBA-011",
+    "name": "Kawhi Leonard",
+    "description": "Two-way superstar known for his lockdown defense and efficient scoring. A quiet leader who lets his game do the talking, with two championships for two different franchises.",
+    "age": 33,
+    "isActive": true,
+    "birthDate": "1991-06-29",
+    "jerseyNumber": 2,
+    "position": "Forward",
+    "achievements": ["2x NBA Champion", "2x Finals MVP", "6x All-Star", "7x All-Defensive"],
+    "team": {
+      "id": "TEAM-LAC",
+      "name": "Los Angeles Clippers",
+      "city": "Los Angeles",
+      "conference": "Western",
+      "foundedYear": 1970,
+      "championships": 0,
+      "colors": ["Red", "Blue"]
+    }
+  },
+  {
+    "id": "NBA-012",
+    "name": "Shai Gilgeous-Alexander",
+    "description": "Rising superstar point guard from Canada with elite scoring ability, length, and craftiness. Leading the Oklahoma City Thunder back to contention with his exceptional two-way play.",
+    "age": 26,
+    "isActive": true,
+    "birthDate": "1998-07-12",
+    "jerseyNumber": 2,
+    "position": "Guard",
+    "achievements": ["3x All-Star", "2x All-NBA", "Most Improved Player Candidate"],
+    "team": {
+      "id": "TEAM-OKC",
+      "name": "Oklahoma City Thunder",
+      "city": "Oklahoma City",
+      "conference": "Western",
+      "foundedYear": 2008,
+      "championships": 1,
+      "colors": ["Blue", "Orange"]
+    }
+  },
+  {
+    "id": "NBA-013",
+    "name": "Jaylen Brown",
+    "description": "Athletic wing player and NBA champion known for his two-way excellence, defensive intensity, and ability to score at all three levels. Named Finals MVP in 2024.",
+    "age": 28,
+    "isActive": true,
+    "birthDate": "1996-10-24",
+    "jerseyNumber": 7,
+    "position": "Guard-Forward",
+    "achievements": ["NBA Champion", "NBA Finals MVP", "3x All-Star", "2x All-NBA"],
+    "team": {
+      "id": "TEAM-BOS",
+      "name": "Boston Celtics",
+      "city": "Boston",
+      "conference": "Eastern",
+      "foundedYear": 1946,
+      "championships": 18,
+      "colors": ["Green", "White"]
+    }
+  },
+  {
+    "id": "NBA-014",
+    "name": "Devin Booker",
+    "description": "Elite scoring guard with a smooth shooting stroke and complete offensive arsenal. Known for his ability to take over games in crucial moments and his leadership role with the Suns.",
+    "age": 28,
+    "isActive": true,
+    "birthDate": "1996-10-30",
+    "jerseyNumber": 1,
+    "position": "Guard",
+    "achievements": ["4x All-Star", "4x All-NBA", "70-Point Game", "Olympic Gold Medalist"],
+    "team": {
+      "id": "TEAM-PHX",
+      "name": "Phoenix Suns",
+      "city": "Phoenix",
+      "conference": "Western",
+      "foundedYear": 1968,
+      "championships": 0,
+      "colors": ["Purple", "Orange"]
+    }
+  },
+  {
+    "id": "NBA-015",
+    "name": "Tyrese Haliburton",
+    "description": "Dynamic floor general with exceptional court vision and passing ability. A rising star who has transformed the Indiana Pacers' offense with his elite playmaking and three-point shooting.",
+    "age": 24,
+    "isActive": true,
+    "birthDate": "2000-02-29",
+    "jerseyNumber": 0,
+    "position": "Guard",
+    "achievements": ["2x All-Star", "All-NBA Third Team", "Assists Leader"],
+    "team": {
+      "id": "TEAM-IND",
+      "name": "Indiana Pacers",
+      "city": "Indianapolis",
+      "conference": "Eastern",
+      "foundedYear": 1976,
+      "championships": 0,
+      "colors": ["Navy", "Gold"]
+    }
+  },
+  {
+    "id": "NBA-016",
+    "name": "Paolo Banchero",
+    "description": "Versatile young forward with an advanced offensive game for his age. The 2023 Rookie of the Year combines size, skill, and basketball IQ to impact games in multiple ways.",
+    "age": 21,
+    "isActive": true,
+    "birthDate": "2002-11-12",
+    "jerseyNumber": 5,
+    "position": "Forward",
+    "achievements": ["Rookie of the Year", "All-Rookie First Team", "Rising Stars MVP"],
+    "team": {
+      "id": "TEAM-ORL",
+      "name": "Orlando Magic",
+      "city": "Orlando",
+      "conference": "Eastern",
+      "foundedYear": 1989,
+      "championships": 0,
+      "colors": ["Blue", "Black"]
+    }
+  },
+  {
+    "id": "NBA-017",
+    "name": "Donovan Mitchell",
+    "description": "High-flying guard with explosive athleticism and scoring prowess. Known for his ability to create his own shot and his performances in clutch situations.",
+    "age": 28,
+    "isActive": true,
+    "birthDate": "1996-09-07",
+    "jerseyNumber": 45,
+    "position": "Guard",
+    "achievements": ["5x All-Star", "3x All-NBA", "71-Point Game", "Slam Dunk Contest Champion"],
+    "team": {
+      "id": "TEAM-CLE",
+      "name": "Cleveland Cavaliers",
+      "city": "Cleveland",
+      "conference": "Eastern",
+      "foundedYear": 1970,
+      "championships": 1,
+      "colors": ["Wine", "Gold"]
+    }
+  },
+  {
+    "id": "NBA-018",
+    "name": "Trae Young",
+    "description": "Dynamic point guard with unlimited range and elite playmaking. Despite his size, Young has established himself as one of the most dangerous offensive weapons in the league.",
+    "age": 26,
+    "isActive": true,
+    "birthDate": "1998-09-19",
+    "jerseyNumber": 11,
+    "position": "Guard",
+    "achievements": ["3x All-Star", "2x All-NBA", "Assists Leader", "Eastern Conference Finals"],
+    "team": {
+      "id": "TEAM-ATL",
+      "name": "Atlanta Hawks",
+      "city": "Atlanta",
+      "conference": "Eastern",
+      "foundedYear": 1968,
+      "championships": 1,
+      "colors": ["Red", "Black"]
+    }
+  },
+  {
+    "id": "NBA-019",
+    "name": "Ja Morant",
+    "description": "Electrifying point guard with incredible athleticism and highlight-reel dunks. Known for his fearless drives to the basket and ability to elevate his team's play.",
+    "age": 25,
+    "isActive": true,
+    "birthDate": "1999-08-10",
+    "jerseyNumber": 12,
+    "position": "Guard",
+    "achievements": ["2x All-Star", "Rookie of the Year", "Most Improved Player", "All-NBA Second Team"],
+    "team": {
+      "id": "TEAM-MEM",
+      "name": "Memphis Grizzlies",
+      "city": "Memphis",
+      "conference": "Western",
+      "foundedYear": 1995,
+      "championships": 0,
+      "colors": ["Navy", "Beale Street Blue"]
+    }
+  },
+  {
+    "id": "NBA-020",
+    "name": "De'Aaron Fox",
+    "description": "Lightning-quick point guard known as one of the fastest players in the NBA. Fox combines elite speed with improved shooting and playmaking to lead the Kings' resurgence.",
+    "age": 27,
+    "isActive": true,
+    "birthDate": "1997-12-20",
+    "jerseyNumber": 5,
+    "position": "Guard",
+    "achievements": ["3x All-Star", "All-NBA Third Team", "Clutch Player of the Year"],
+    "team": {
+      "id": "TEAM-SAC",
+      "name": "Sacramento Kings",
+      "city": "Sacramento",
+      "conference": "Western",
+      "foundedYear": 1948,
+      "championships": 1,
+      "colors": ["Purple", "Silver"]
+    }
+  },
+  {
+    "id": "NBA-021",
+    "name": "Bam Adebayo",
+    "description": "Versatile defensive anchor and exceptional passer for a big man. Adebayo's ability to guard multiple positions and facilitate offense makes him invaluable to Miami's system.",
+    "age": 27,
+    "isActive": true,
+    "birthDate": "1997-07-18",
+    "jerseyNumber": 13,
+    "position": "Center",
+    "achievements": ["3x All-Star", "5x All-Defensive", "NBA Finals", "Olympic Gold Medalist"],
+    "team": {
+      "id": "TEAM-MIA",
+      "name": "Miami Heat",
+      "city": "Miami",
+      "conference": "Eastern",
+      "foundedYear": 1988,
+      "championships": 3,
+      "colors": ["Red", "Black"]
+    }
+  },
+  {
+    "id": "NBA-022",
+    "name": "Jalen Brunson",
+    "description": "Crafty point guard with exceptional mid-range scoring and clutch gene. Brunson emerged as a star in New York, leading the Knicks back to playoff relevance with his steady leadership.",
+    "age": 28,
+    "isActive": true,
+    "birthDate": "1996-08-31",
+    "jerseyNumber": 11,
+    "position": "Guard",
+    "achievements": ["2x All-Star", "All-NBA Second Team", "NBA Champion (2022)", "Sixth Man Award Candidate"],
+    "team": {
+      "id": "TEAM-NYK",
+      "name": "New York Knicks",
+      "city": "New York",
+      "conference": "Eastern",
+      "foundedYear": 1946,
+      "championships": 2,
+      "colors": ["Blue", "Orange"]
+    }
+  },
+  {
+    "id": "NBA-023",
+    "name": "Scottie Barnes",
+    "description": "Versatile forward with point-forward skills and defensive prowess. The 2022 Rookie of the Year continues to develop into a franchise cornerstone for the Raptors.",
+    "age": 23,
+    "isActive": true,
+    "birthDate": "2001-08-01",
+    "jerseyNumber": 4,
+    "position": "Forward",
+    "achievements": ["Rookie of the Year", "All-Rookie First Team", "All-Star"],
+    "team": {
+      "id": "TEAM-TOR",
+      "name": "Toronto Raptors",
+      "city": "Toronto",
+      "conference": "Eastern",
+      "foundedYear": 1995,
+      "championships": 1,
+      "colors": ["Red", "Black"]
+    }
+  },
+  {
+    "id": "NBA-024",
+    "name": "Zion Williamson",
+    "description": "Explosive power forward with unprecedented athleticism and strength. When healthy, Zion is one of the most dominant interior forces in the game with his ability to finish above the rim.",
+    "age": 24,
+    "isActive": true,
+    "birthDate": "2000-07-06",
+    "jerseyNumber": 1,
+    "position": "Forward",
+    "achievements": ["2x All-Star", "All-NBA Third Team", "Rookie of the Year", "All-Rookie First Team"],
+    "team": {
+      "id": "TEAM-NOP",
+      "name": "New Orleans Pelicans",
+      "city": "New Orleans",
+      "conference": "Western",
+      "foundedYear": 2002,
+      "championships": 0,
+      "colors": ["Navy", "Red"]
+    }
+  },
+  {
+    "id": "NBA-025",
+    "name": "Chet Holmgren",
+    "description": "Unicorn big man with elite shot-blocking ability and three-point range. The 7-footer combines modern spacing with rim protection, bringing a unique skill set to Oklahoma City.",
+    "age": 22,
+    "isActive": true,
+    "birthDate": "2002-05-01",
+    "jerseyNumber": 7,
+    "position": "Center-Forward",
+    "achievements": ["Rookie of the Year", "All-Rookie First Team", "All-Defensive Team"],
+    "team": {
+      "id": "TEAM-OKC",
+      "name": "Oklahoma City Thunder",
+      "city": "Oklahoma City",
+      "conference": "Western",
+      "foundedYear": 2008,
+      "championships": 1,
+      "colors": ["Blue", "Orange"]
+    }
+  }
+]
