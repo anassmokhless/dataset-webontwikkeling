@@ -4,7 +4,7 @@
     "name": "Los Angeles Lakers",
     "city": "Los Angeles",
     "conference": "Western",
-    "logoUrl": "https://example.com/images/teams/lakers-logo.jpg",
+    "logoUrl": "https://raw.githubusercontent.com/anassmokhless/dataset-webontwikkeling/ec1c5facabc0856d3b2eed01df39bdfcee247439/assets/images/team-logo's/lakers.svg",
     "foundedYear": 1947,
     "championships": 17
   },
@@ -13,7 +13,7 @@
     "name": "Golden State Warriors",
     "city": "San Francisco",
     "conference": "Western",
-    "logoUrl": "https://example.com/images/teams/warriors-logo.jpg",
+    "logoUrl": "https://raw.githubusercontent.com/anassmokhless/dataset-webontwikkeling/ec1c5facabc0856d3b2eed01df39bdfcee247439/assets/images/team-logo's/warriors.svg",
     "foundedYear": 1946,
     "championships": 7
   },
@@ -22,7 +22,7 @@
     "name": "Milwaukee Bucks",
     "city": "Milwaukee",
     "conference": "Eastern",
-    "logoUrl": "https://example.com/images/teams/bucks-logo.jpg",
+    "logoUrl": "https://raw.githubusercontent.com/anassmokhless/dataset-webontwikkeling/ec1c5facabc0856d3b2eed01df39bdfcee247439/assets/images/team-logo's/bucks.svg",
     "foundedYear": 1968,
     "championships": 2
   },
@@ -31,7 +31,7 @@
     "name": "Phoenix Suns",
     "city": "Phoenix",
     "conference": "Western",
-    "logoUrl": "https://example.com/images/teams/suns-logo.jpg",
+    "logoUrl": "https://raw.githubusercontent.com/anassmokhless/dataset-webontwikkeling/ec1c5facabc0856d3b2eed01df39bdfcee247439/assets/images/team-logo's/suns.svg",
     "foundedYear": 1968,
     "championships": 0
   },
@@ -40,7 +40,7 @@
     "name": "Dallas Mavericks",
     "city": "Dallas",
     "conference": "Western",
-    "logoUrl": "https://example.com/images/teams/mavericks-logo.jpg",
+    "logoUrl": "https://raw.githubusercontent.com/anassmokhless/dataset-webontwikkeling/ec1c5facabc0856d3b2eed01df39bdfcee247439/assets/images/team-logo's/mavericks.svg",
     "foundedYear": 1980,
     "championships": 1
   },
@@ -49,7 +49,7 @@
     "name": "Boston Celtics",
     "city": "Boston",
     "conference": "Eastern",
-    "logoUrl": "https://example.com/images/teams/celtics-logo.jpg",
+    "logoUrl": "https://raw.githubusercontent.com/anassmokhless/dataset-webontwikkeling/ec1c5facabc0856d3b2eed01df39bdfcee247439/assets/images/team-logo's/celtics.svg",
     "foundedYear": 1946,
     "championships": 18
   },
@@ -58,7 +58,7 @@
     "name": "Denver Nuggets",
     "city": "Denver",
     "conference": "Western",
-    "logoUrl": "https://example.com/images/teams/nuggets-logo.jpg",
+    "logoUrl": "https://raw.githubusercontent.com/anassmokhless/dataset-webontwikkeling/ec1c5facabc0856d3b2eed01df39bdfcee247439/assets/images/team-logo's/nuggets.svg",
     "foundedYear": 1967,
     "championships": 1
   },
@@ -67,7 +67,7 @@
     "name": "Philadelphia 76ers",
     "city": "Philadelphia",
     "conference": "Eastern",
-    "logoUrl": "https://example.com/images/teams/76ers-logo.jpg",
+    "logoUrl": "https://raw.githubusercontent.com/anassmokhless/dataset-webontwikkeling/ec1c5facabc0856d3b2eed01df39bdfcee247439/assets/images/team-logo's/76ers.svg",
     "foundedYear": 1946,
     "championships": 3
   },
@@ -76,7 +76,7 @@
     "name": "Los Angeles Clippers",
     "city": "Los Angeles",
     "conference": "Western",
-    "logoUrl": "https://example.com/images/teams/clippers-logo.jpg",
+    "logoUrl": "https://raw.githubusercontent.com/anassmokhless/dataset-webontwikkeling/ec1c5facabc0856d3b2eed01df39bdfcee247439/assets/images/team-logo's/clippers.svg",
     "foundedYear": 1970,
     "championships": 0
   }
